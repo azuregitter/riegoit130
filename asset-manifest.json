@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/riegoreactpage/static/css/main.4ab3d214.chunk.css",
+    "main.js": "/riegoreactpage/static/js/main.26a5ff59.chunk.js",
+    "main.js.map": "/riegoreactpage/static/js/main.26a5ff59.chunk.js.map",
+    "runtime-main.js": "/riegoreactpage/static/js/runtime-main.cd7d024b.js",
+    "runtime-main.js.map": "/riegoreactpage/static/js/runtime-main.cd7d024b.js.map",
+    "static/js/2.8944fbd4.chunk.js": "/riegoreactpage/static/js/2.8944fbd4.chunk.js",
+    "static/js/2.8944fbd4.chunk.js.map": "/riegoreactpage/static/js/2.8944fbd4.chunk.js.map",
+    "index.html": "/riegoreactpage/index.html",
+    "precache-manifest.1185f0ff15b19d0a2dcc46f64b13a835.js": "/riegoreactpage/precache-manifest.1185f0ff15b19d0a2dcc46f64b13a835.js",
+    "service-worker.js": "/riegoreactpage/service-worker.js",
+    "static/css/main.4ab3d214.chunk.css.map": "/riegoreactpage/static/css/main.4ab3d214.chunk.css.map",
+    "static/js/2.8944fbd4.chunk.js.LICENSE.txt": "/riegoreactpage/static/js/2.8944fbd4.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/riegoreactpage/static/media/0.ae1e4bf6.png",
+    "static/media/1.png": "/riegoreactpage/static/media/1.e0c1f78f.png",
+    "static/media/3.png": "/riegoreactpage/static/media/3.71e71c54.png",
+    "static/media/4.png": "/riegoreactpage/static/media/4.d3a2ef6b.png",
+    "static/media/5.png": "/riegoreactpage/static/media/5.1cccf7d4.png",
+    "static/media/6.png": "/riegoreactpage/static/media/6.4ccbfbca.png",
+    "static/media/7.png": "/riegoreactpage/static/media/7.077161b6.png",
+    "static/media/8.png": "/riegoreactpage/static/media/8.1df7c80b.png",
+    "static/media/bowats.png": "/riegoreactpage/static/media/bowats.04410047.png",
+    "static/media/title3.png": "/riegoreactpage/static/media/title3.23afcf9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7d024b.js",
+    "static/js/2.8944fbd4.chunk.js",
+    "static/css/main.4ab3d214.chunk.css",
+    "static/js/main.26a5ff59.chunk.js"
+  ]
+}
